@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">智慧生活+</string>
+
+
+
+
+    <!--main type-->
+    <string name="main_type_mainpage">首頁</string>
+    <string name="main_type_news">看新聞</string>
+    <string name="main_type_garbage">倒垃圾</string>
+
+
+    <!--看新聞-->
+    <string name="news_title_taiwan">愛臺灣</string>
+    <string name="news_title_global">看世界</string>
+
+    <!--倒垃圾-->
+    <string name="garbage_title_list">附近站點</string>
+    <string name="garbage_title_map">秀給我看</string>
+</resources>
